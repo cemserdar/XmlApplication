@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\views\\document\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\services\\concrete\\sbifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\services\\concrete\\sbifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCC76DED-872B-4C75-B2B5-89D093178FCD}|XmlApp.Infrastructure\\XmlApp.Infrastructure.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp.infrastructure\\repositories\\sbifbilgilerirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCC76DED-872B-4C75-B2B5-89D093178FCD}|XmlApp.Infrastructure\\XmlApp.Infrastructure.csproj|solutionrelative:xmlapp.infrastructure\\repositories\\sbifbilgilerirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\wwwroot\\js\\document\\upload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\wwwroot\\js\\document\\upload.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4731C566-E565-4CD6-BBFB-8E92A3EB2445}|XmlApp.Domain\\XmlApp.Domain.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp.domain\\repositories\\isbifbilgilerirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4731C566-E565-4CD6-BBFB-8E92A3EB2445}|XmlApp.Domain\\XmlApp.Domain.csproj|solutionrelative:xmlapp.domain\\repositories\\isbifbilgilerirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\services\\abstract\\isbifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\services\\abstract\\isbifservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|c:\\users\\cem serdar\\desktop\\xmlapp\\xmlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96D3F06-FBA6-4476-884B-95264DAAF582}|XmlApp\\XmlApp.csproj|solutionrelative:xmlapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "XmlApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "XmlApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T13:08:04.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "XmlApp\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "XmlApp\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:52:23.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Upload.js",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\wwwroot\\js\\document\\Upload.js",
+              "RelativeDocumentMoniker": "XmlApp\\wwwroot\\js\\document\\Upload.js",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\wwwroot\\js\\document\\Upload.js",
+              "RelativeToolTip": "XmlApp\\wwwroot\\js\\document\\Upload.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-10-15T12:50:59.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISBIFBilgileriRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp.Domain\\Repositories\\ISBIFBilgileriRepository.cs",
+              "RelativeDocumentMoniker": "XmlApp.Domain\\Repositories\\ISBIFBilgileriRepository.cs",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp.Domain\\Repositories\\ISBIFBilgileriRepository.cs",
+              "RelativeToolTip": "XmlApp.Domain\\Repositories\\ISBIFBilgileriRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:45:46.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SBIFBilgileriRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp.Infrastructure\\Repositories\\SBIFBilgileriRepository.cs",
+              "RelativeDocumentMoniker": "XmlApp.Infrastructure\\Repositories\\SBIFBilgileriRepository.cs",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp.Infrastructure\\Repositories\\SBIFBilgileriRepository.cs",
+              "RelativeToolTip": "XmlApp.Infrastructure\\Repositories\\SBIFBilgileriRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:42:45.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "XmlApp\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "XmlApp\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAADwvz4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:31:57.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Views\\Document\\Index.cshtml",
+              "RelativeDocumentMoniker": "XmlApp\\Views\\Document\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Views\\Document\\Index.cshtml",
+              "RelativeToolTip": "XmlApp\\Views\\Document\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:31:47.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Program.cs",
+              "RelativeDocumentMoniker": "XmlApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Program.cs",
+              "RelativeToolTip": "XmlApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIApwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:29:34.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SBIFService.cs",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Services\\Concrete\\SBIFService.cs",
+              "RelativeDocumentMoniker": "XmlApp\\Services\\Concrete\\SBIFService.cs",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Services\\Concrete\\SBIFService.cs",
+              "RelativeToolTip": "XmlApp\\Services\\Concrete\\SBIFService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:22:27.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISBIFService.cs",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Services\\Abstract\\ISBIFService.cs",
+              "RelativeDocumentMoniker": "XmlApp\\Services\\Abstract\\ISBIFService.cs",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Services\\Abstract\\ISBIFService.cs",
+              "RelativeToolTip": "XmlApp\\Services\\Abstract\\ISBIFService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:20:45.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "XmlApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Cem Serdar\\Desktop\\XmlApp\\XmlApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "XmlApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAjwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:15:10.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

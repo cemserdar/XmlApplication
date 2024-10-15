@@ -1,0 +1,14 @@
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\bin\Debug\net8.0\XmlApp.Domain.deps.json
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\bin\Debug\net8.0\XmlApp.Domain.runtimeconfig.json
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\bin\Debug\net8.0\XmlApp.Domain.dll
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\bin\Debug\net8.0\XmlApp.Domain.pdb
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.AssemblyInfo.cs
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.dll
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\refint\XmlApp.Domain.dll
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.pdb
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\XmlApp.Domain.genruntimeconfig.cache
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Domain\obj\Debug\net8.0\ref\XmlApp.Domain.dll

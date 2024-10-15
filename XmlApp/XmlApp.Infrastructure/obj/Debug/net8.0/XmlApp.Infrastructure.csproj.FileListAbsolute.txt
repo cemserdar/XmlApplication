@@ -1,0 +1,15 @@
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Infrastructure.deps.json
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Infrastructure.dll
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Infrastructure.pdb
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Domain.dll
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Domain.pdb
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.I.D10CB5DF.Up2Date
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.dll
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\refint\XmlApp.Infrastructure.dll
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.pdb
+C:\Users\Cem Serdar\Desktop\XmlApp\XmlApp.Infrastructure\obj\Debug\net8.0\ref\XmlApp.Infrastructure.dll
