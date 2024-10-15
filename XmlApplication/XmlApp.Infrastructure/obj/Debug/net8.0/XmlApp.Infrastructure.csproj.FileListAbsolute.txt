@@ -1,0 +1,17 @@
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Infrastructure.deps.json
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Infrastructure.runtimeconfig.json
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Infrastructure.dll
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Infrastructure.pdb
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Domain.dll
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\bin\Debug\net8.0\XmlApp.Domain.pdb
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.csproj.AssemblyReference.cache
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.AssemblyInfoInputs.cache
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.AssemblyInfo.cs
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.I.D10CB5DF.Up2Date
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.dll
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\refint\XmlApp.Infrastructure.dll
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.pdb
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\XmlApp.Infrastructure.genruntimeconfig.cache
+E:\CaseApp\XmlApplication\XmlApp.Infrastructure\obj\Debug\net8.0\ref\XmlApp.Infrastructure.dll

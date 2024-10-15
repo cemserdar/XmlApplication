@@ -1,0 +1,8 @@
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.csproj.AssemblyReference.cache
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.AssemblyInfoInputs.cache
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.AssemblyInfo.cs
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.csproj.CoreCompileInputs.cache
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.RazorAssemblyInfo.cache
+E:\CaseApp\XmlApplication\XmlApplication\obj\Debug\net8.0\XmlApplication.RazorAssemblyInfo.cs
